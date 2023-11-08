@@ -1,0 +1,12 @@
+{
+    "name": "evitor-silva/learning",
+    "require": {
+        "rubix/ml": "^2.4",
+        "rubix/tensor": "^3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Zakrom\\Learning\\": "src/"
+        }
+    }
+}
